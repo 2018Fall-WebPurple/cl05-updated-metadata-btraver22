@@ -1,0 +1,51 @@
+/*
+* Brooke Traver
+* Due Date
+* Kanagroos CSS
+*/
+
+/* The universal seclector */
+
+* { 
+
+}
+
+ /* Body attributes here */
+ 
+ body {
+ 
+     background-color: palegoldenrod;
+     
+     font-family: monospace, cursive, fantasy;
+     
+    
+ }
+
+header {
+    
+    background-color: palegreen;
+}
+
+h1 {
+    
+   font-size: 200%;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline overline;
+    text-decoration-color: gray;
+    
+     
+    
+}
+
+main {
+    
+    background-color: white;
+    color: royalblue;
+    
+}
+
+footer {
+    
+    background-color: pink;
+}
